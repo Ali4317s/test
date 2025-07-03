@@ -1,0 +1,23 @@
+{
+    "auth": "iayzucdhipopqhaqxlptyrjejxmamoya",
+    "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIICXQIBAAKBgQDOSp0klwyqaO7cZ3RfPGH0IuA5/RNtn2E0xY0eML9UIwFt+D3V\nInK6alpthe7iG8c23zo8EEXYz49vPvUuZ66wwGFlrOpjo6lRzScEG4rw14hCnDso\nPmAJ+HT4QCgjeQSeD+j1l1/Ekd+jlfhOybUPo0V/R6RwhHfdCUissB1ppwIDAQAB\nAoGAF8MWeMmBZvuxT+gGypWM/u8pfuR84Wqzar26tJiO4WUq2/z1OmC+cGShx+3e\nh2MFvndWIOcK9J9r+Td6TH8a6wHvjYnlgAfeuD2TQi1TERnviFbJ9GXVaTWmf0Cv\nQj+ruDsLVKn+uuAiCiaj6AO+eDnivxR2l9LtzqlxFKt4RNkCQQDOituSglYu/FdG\nRlRAtY5wa+F1+/5nGVBGmE1GQqqxPUahnP0lPXC10JE9dL8RMZUDGb+zb9CVmCZl\n+JXMIbqzAkEA/7BfZJqmwiN/HKYp4i8iaUJ8rMPJO8Nq4biw1jQu7ETRhXCA3KM7\nCnP7xXhzNnq7FHSO39+zLWLDLUZRrMbfPQJBAKP3Eia196snQjWUwW/5cdGHox3h\n5e186ACTCc18QTuhNIA6O7CjnOWJZLPQCZqhrPUgLNJLMuB/QAR1mp3KLQcCQC1K\nt8shXfK7yPNxN7AaO1U78svDrqzIc/Fh/ukiu0Ec+6RQhnMO8xFp9CpJqNb4rJT2\nBK0BekLK4NnvP96EJ90CQQCCS6iXwFX/qo9JgZlde/XFWXrw7lkyp0SIb8bwWjor\nx8t3m/a/1lFXgHUGOmjhe0VZ5F/1D5YV++w4QJmxuDFF\n-----END RSA PRIVATE KEY-----",
+    "user": {
+        "user_guid": "u0HmSMT0bc6cfc08385067e4dd1e5224",
+        "first_name": "\u2325\ud835\uddd4\ud835\uddf9\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\ude07\ud835\uddee",
+        "phone": "989909588365",
+        "avatar_thumbnail": {
+            "file_id": "68719750417558",
+            "mime": "jpg",
+            "dc_id": "846",
+            "access_hash_rec": "4754469788499722757151491550752025061909"
+        },
+        "last_online": 1751286487,
+        "bio": "\u062f\u0644\u0634\u200c \u062c\u0627\u06cc \u062f\u06af\u0631 \u0628\u0648\u062f !! \u063a\u0645\u0634 \u06a9\u0646\u062c \u062f\u0644 \u0645\u0627 (:\n\u200c \u200c \nrubika.ir/Devalirez \ud83e\ude78",
+        "is_deleted": false,
+        "is_verified": false,
+        "online_time": {
+            "type": "Exact",
+            "exact_time": 1751286487
+        }
+    }
+}
